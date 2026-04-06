@@ -1,7 +1,10 @@
 ## How to Run
 
-1. Install dependencies
+1. Install dependencies:
+   pip install -r requirements.txt
+
 2. Run:
+   (This step must be run once before starting the app)
    python rag.py
 
 3. Start backend:
